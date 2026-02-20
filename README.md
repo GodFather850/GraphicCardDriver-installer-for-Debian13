@@ -10,9 +10,9 @@ All you can do is relax, watch and star this post.😉**
 ---
 # Features 👇🏻
 
-1. **expandable**
-2. **Lightweight and without extra features *(focused on work)***
-3. **Automatic**
+• **expandable**
+• **Lightweight and without extra features *(focused on work)***
+• **Automatic**
 
 ---
 # How To Use 🤔
