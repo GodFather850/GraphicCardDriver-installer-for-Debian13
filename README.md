@@ -11,7 +11,9 @@ All you can do is relax, watch and star this post.😉**
 # Features 👇🏻
 
 • **expandable**
+
 • **Lightweight and without extra features *(focused on work)***
+
 • **Automatic**
 
 ---
